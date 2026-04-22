@@ -1,0 +1,24 @@
+{
+  "name": "venmo-group-paylater-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Concept prototype for Venmo Group Pay Later — pre-application PM artifact. All data simulated, no real payment rails.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "marked": "^18.0.2",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.70",
+    "@types/react-dom": "18.2.22",
+    "typescript": "5.4.3"
+  }
+}

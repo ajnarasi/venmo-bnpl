@@ -1,0 +1,23 @@
+# deps / build
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# envs & secrets
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel
+
+# os / editor
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# large source artifact — the user's original docx lives under pitch/ with a plain-text mirror already tracked
+pitch/v1-original.docx
